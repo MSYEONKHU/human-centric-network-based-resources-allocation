@@ -1,4 +1,4 @@
-# human-centric-network-based-resources-allocation
+# Human-centric-network-based-resources-allocation
 An approach for allocating Human resources based on Human-centric network for Process-Aware information system
 
 Efficient allocating resources for organizations is one of the main concerns in enterprises. Along with the development of the organizations right from the start of their business, the resources allocation task dramatically determines the success of businesses, especially with human resources. Recognizing the business's resources from which to operate, exploit, and serve in business activities is the key to the success and development of organizations.
