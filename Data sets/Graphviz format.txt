@@ -1,0 +1,23 @@
+Affiliation network format:
+
+ graph [resolution=128, fontname=Arial, fontcolor=black, fontsize=18 ];
+                 node [ fontname=Arial, fontcolor=blue, fontsize=15];
+                 edge [ fontname=Helvetica, fontcolor=red, fontsize=14 ];
+
+
+
+node [fixedsize=true];
+subgraph cluster_0 {
+style="rounded,filled";
+color="#00cc66";
+node [style="rounded,filled", width="1", shape="circle",color="#333333",fillcolor="#ffffff"];
+"Assign seriousness" "Take in charge ticket" "Resolve ticket" "Closed" "Insert ticket" "Wait" "Create SW anomaly" "Require upgrade" "VERIFIED" "DUPLICATE" "Resolve SW anomaly" "Schedule intervention" "RESOLVED" "INVALID" 
+label = "Activities"
+}
+subgraph cluster_1 {
+style="rounded,filled";
+color="#ff9900";
+node [style="rounded,filled", width="0.3", shape="circle",color="#333333",fillcolor="#ffffff"];
+"Value 1" "Value 2" "Value 3" "Value 4" "Value 5" "Value 6" "Value 7" "Value 8" "Value 9" "Value 10" "Value 11" "Value 12" "Value 13" "Value 14" "Value 15" "Value 16" "Value 17" "Value 18" "Value 19" "Value 20" "Value 21" "Value 22" 
+label = "Performers"
+}
