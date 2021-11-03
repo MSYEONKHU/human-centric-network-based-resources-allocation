@@ -23,7 +23,22 @@ Aside from describing theoretical, algorithms to discover the networks, we also 
 
 
 
+The system was use Django frame work with Graphviz and Cytoscape library. To learn how to install the Django, see at: https://www.djangoproject.com/start/
 
+_How to install the system:_
+- Install the required Python packages (described in requirements.txt):
 
+  matplotlib==3.2.2
+  numpy==1.18.5
+  pandas==1.0.5
+  PyMySQL==0.9.3
+  Django==3.0.8
+  networkx==2.4
+  python_dateutil==2.8.1
+  Install MySQL database version >= 5.1. The SQL script of database is stored in folder "Database"
+
+- Run the application by using this command: python manage.py runserver
+
+If you have trouble installing the source code, don't hestitate to contact me msyeon (at) khu (dot) ac (dot) kr
 
 
