@@ -23,10 +23,6 @@ Aside from describing theoretical, algorithms to discover the networks, we also 
 
 
 
-**The discovered Process-aware affiliation network from Help desk data set**
-
-![The system architecture](7_AN.png?raw=true "The system architecture")
-
 
 
 
